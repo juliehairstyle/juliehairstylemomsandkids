@@ -1,0 +1,1900 @@
+Uri: https://app.usercentrics.eu/browser-ui/latest/loader.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\browser-ui\latest\loader.js
+Content Type: application/javascript
+
+Uri: https://d2e3ebjq9bfloz.cloudfront.net/Partners/IOL/scripts/jquery.iol.custom.min.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\Partners\IOL\scripts\jquery.iol.custom.min.js
+Content Type: application/javascript
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/107a32db89f1285b1.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\107a32db89f1285b1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/107a32db89f1285b4.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\107a32db89f1285b4.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1291d1e7f9fa7394.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\1291d1e7f9fa7394.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1291d1e7f9fa73947.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\1291d1e7f9fa73947.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1a31561daae4e6f5.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\1a31561daae4e6f5.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/1a31561daae4e6f6.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\1a31561daae4e6f6.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/28f652d19e80fbde1.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\28f652d19e80fbde1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/28f652d19e80fbde11.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\28f652d19e80fbde11.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/31691cf572f5bde34.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\31691cf572f5bde34.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/31691cf572f5bde8.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\31691cf572f5bde8.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/325a0ea84e3a99.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\325a0ea84e3a99.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/325a0ea84e3a993.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\325a0ea84e3a993.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3943a091ad116f3a1.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\3943a091ad116f3a1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3943a091ad116f3a3.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\3943a091ad116f3a3.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3b8723a173ab23db6.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\3b8723a173ab23db6.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/3b8723a173ab23db9.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\3b8723a173ab23db9.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/47b9a7080319bd8b.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\47b9a7080319bd8b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/47b9a7080319bd8b9.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\47b9a7080319bd8b9.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/48066a2ff839778c.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\48066a2ff839778c.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/48066a2ff839778c2.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\48066a2ff839778c2.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/5128cd07406988e2.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\5128cd07406988e2.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/5128cd07406988e3.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\5128cd07406988e3.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/53198ebebffbde21.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\53198ebebffbde21.woff
+Content Type: font/woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/53198ebebffbde25.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\53198ebebffbde25.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/6d3318b718754b78.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\6d3318b718754b78.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/6d3318b718754b781.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\6d3318b718754b781.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9d22fae1754942f6.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\9d22fae1754942f6.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9d22fae1754942f63.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\9d22fae1754942f63.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9f2d68f1d69270015.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\9f2d68f1d69270015.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/9f2d68f1d69270018.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\9f2d68f1d69270018.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a38f38c55b7a57a.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a38f38c55b7a57a.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a4ba60ff9fc73cf85.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a4ba60ff9fc73cf85.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a4ba60ff9fc73cf87.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a4ba60ff9fc73cf87.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a7bbb29f8e80de7b.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a7bbb29f8e80de7b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a7bbb29f8e80de7b4.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a7bbb29f8e80de7b4.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a81a5e6e6b2de22.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a81a5e6e6b2de22.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/a81a5e6e6b2de224.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\a81a5e6e6b2de224.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/bac7cf2e21ae24d1.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\bac7cf2e21ae24d1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/bc3ca414adf5d1d.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\bc3ca414adf5d1d.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/bc3ca414adf5d1d1.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\bc3ca414adf5d1d1.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/cd26fb9258467dc1b.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\cd26fb9258467dc1b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/cd26fb9258467dcb2.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\cd26fb9258467dcb2.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/d843412155f4ee4b.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\d843412155f4ee4b.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/d843412155f4ee4b3.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\d843412155f4ee4b3.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/e2fc0b95199b08bc.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\e2fc0b95199b08bc.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/e5fc7a757e7988.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\e5fc7a757e7988.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/e5fc7a757e79881.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\e5fc7a757e79881.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/ec49acf58c10f8a9.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\ec49acf58c10f8a9.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f5c444da86865f17.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\f5c444da86865f17.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f5c444da86865f171.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\f5c444da86865f171.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f889a07745b51249.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\f889a07745b51249.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/additionalfonts/f889a07745b512491.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\additionalfonts\f889a07745b512491.woff
+Content Type: application/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Alef-Bold.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Alef-Bold.woff2
+Content Type: binary/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Alef-Regular.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Alef-Regular.woff2
+Content Type: binary/octet-stream
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Museo_Slab_500.otf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Museo_Slab_500.otf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bold-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-bolditalic-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-bolditalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-extrabold-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-extrabold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-italic-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-italic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-light-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-light-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-lightitalic-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-lightitalic-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.eot
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.ttf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://dd-cdn.multiscreensite.com/fonts/Opes_Sans_Hebrew/opensanshebrew-regular-webfont.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\Opes_Sans_Hebrew\opensanshebrew-regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/arrowBlackRight.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\arrowBlackRight.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/galleryLoader.gif
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\galleryLoader.gif
+Content Type: image/gif
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/imgPlaceholder1.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\imgPlaceholder1.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/imgPlaceholder2.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\imgPlaceholder2.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/imgPlaceholder3.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\imgPlaceholder3.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/restaurantMenu/menu-image1.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\restaurantMenu\menu-image1.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/runtime-img/yelpLogo.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\runtime-img\yelpLogo.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/aidsBg.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\aidsBg.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/click2Call.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\click2Call.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/halloween_call.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\halloween_call.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/cyberMondayBg.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\holiday\cyberMondayBg.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/holidaySnow.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\holiday\holidaySnow.png
+Content Type: image/png
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/smbSaturdayBg.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\holiday\smbSaturdayBg.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/holiday/thanksgivingBg.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\holiday\thanksgivingBg.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/sectionImg5.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\sectionImg5.jpg
+Content Type: image/jpeg
+
+Uri: https://dd-cdn.multiscreensite.com/themes/sections/Trick-or-Treat.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\themes\sections\Trick-or-Treat.jpg
+Content Type: image/jpeg
+
+Uri: https://dp-cdn.multiscreensite.com/bfsImages/sunset-hair.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\bfsImages\sunset-hair.jpg
+Content Type: image/jpeg
+
+Uri: https://dp-cdn.multiscreensite.com/gallery/bg_37.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\gallery\bg_37.png
+Content Type: image/png
+
+Uri: https://dp-cdn.multiscreensite.com/gallery/pink_pattern.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\gallery\pink_pattern.png
+Content Type: image/png
+
+Uri: https://iol-website.italiaonline.it/df/iol-df.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\df\iol-df.js
+Content Type: application/javascript
+
+Uri: https://iol-website.italiaonline.it/script/iol-body-np.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\script\iol-body-np.js
+Content Type: application/javascript
+
+Uri: https://iol-website.italiaonline.it/script/iol-body.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\script\iol-body.js
+Content Type: application/javascript
+
+Uri: https://iol-website.italiaonline.it/site-resources/footer_italiaonline.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\site-resources\footer_italiaonline.png
+Content Type: image/png
+
+Uri: https://iol-website.italiaonline.it/site-resources/footer_pb.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\site-resources\footer_pb.png
+Content Type: image/png
+
+Uri: https://iol-website.italiaonline.it/site-resources/footer_pg.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\site-resources\footer_pg.png
+Content Type: image/png
+
+Uri: https://irp-cdn.multiscreensite.com/f1c92a16/dms3rep/multi/Risorsa+4.svg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\Risorsa 4.svg
+Content Type: image/svg+xml
+
+Uri: https://irp.cdn-website.com/f1c92a16/files/f1c92a16_1.min.css?v=72
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\files\f1c92a16_1.min.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/f1c92a16/files/f1c92a16_home_1.min.css?v=72
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\files\f1c92a16_home_1.min.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/f1c92a16/files/uploaded/Julie HS menu servizi.pdf
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\files\uploaded\Julie HS menu servizi.pdf
+Content Type: application/pdf
+
+Uri: https://irp.cdn-website.com/f1c92a16/site_favicon_16_1665891294745.ico
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\site_favicon_16_1665891294745.ico
+Content Type: image/x-icon
+
+Uri: https://irp.cdn-website.com/fonts/css?family=Muli:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Raleway:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Roboto:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Bad+Script:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Great+Vibes:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Lato:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Be+Vietnam:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|DM+Serif+Text:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Oswald:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Source+Sans+Pro:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&subset=latin-ext&display=swap
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/fonts/s/badscript/v14/6NUT8F6PJgbFWQn47_x7pOskzA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\badscript\v14\6NUT8F6PJgbFWQn47_x7pOskzA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pO8kzO1A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\badscript\v16\6NUT8F6PJgbFWQn47_x7pO8kzO1A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskzA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\badscript\v16\6NUT8F6PJgbFWQn47_x7pOskzA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfGUR1JEYu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfGUR1JEYu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfGUR1K0YuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfGUR1K0YuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfGUR1KkYuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfGUR1KkYuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfNUN1JEYu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfNUN1JEYu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfNUN1K0YuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfNUN1K0YuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfNUN1KkYuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfNUN1KkYuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfQUV1JEYu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfQUV1JEYu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfQUV1K0YuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfQUV1K0YuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfQUV1KkYuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfQUV1KkYuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfTUF1JEYu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfTUF1JEYu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfTUF1K0YuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfTUF1K0YuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfTUF1KkYuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfTUF1KkYuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfUUJ1JEYu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfUUJ1JEYu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfUUJ1K0YuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfUUJ1K0YuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVudDflz-iPfoPuIC2iIqMfUUJ1KkYuBzc.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVudDflz-iPfoPuIC2iIqMfUUJ1KkYuBzc.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVvdDflz-iPfoPuIC2iIqMfiVdiA2M.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVvdDflz-iPfoPuIC2iIqMfiVdiA2M.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVvdDflz-iPfoPuIC2iIqMfiVdsA2MTPg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVvdDflz-iPfoPuIC2iIqMfiVdsA2MTPg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVvdDflz-iPfoPuIC2iIqMfiVdtA2MTPg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVvdDflz-iPfoPuIC2iIqMfiVdtA2MTPg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKg0F_U5FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKg0F_U5FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKg0F_U9FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKg0F_U9FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKg0F_UBFJg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKg0F_UBFJg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKgEB_U5FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKgEB_U5FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKgEB_U9FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKgEB_U9FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKgEB_UBFJg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKgEB_UBFJg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKh0C_U5FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKh0C_U5FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKh0C_U9FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKh0C_U9FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKh0C_UBFJg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKh0C_UBFJg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKlUE_U5FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKlUE_U5FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKlUE_U9FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKlUE_U9FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKlUE_UBFJg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKlUE_UBFJg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKnkD_U5FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKnkD_U5FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKnkD_U9FJl4q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKnkD_U9FJl4q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVwdDflz-iPfoPuIC2iKnkD_UBFJg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVwdDflz-iPfoPuIC2iKnkD_UBFJg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVxdDflz-iPfoPuIC2iIqMX5GdgG2c.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVxdDflz-iPfoPuIC2iIqMX5GdgG2c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVxdDflz-iPfoPuIC2iIqMX5WdgG2c.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVxdDflz-iPfoPuIC2iIqMX5WdgG2c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVxdDflz-iPfoPuIC2iIqMX6mdg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVxdDflz-iPfoPuIC2iIqMX6mdg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVxdDflz-iPfoPuIC2iKsUX5GdgG2c.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVxdDflz-iPfoPuIC2iKsUX5GdgG2c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVxdDflz-iPfoPuIC2iKsUX5WdgG2c.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVxdDflz-iPfoPuIC2iKsUX5WdgG2c.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVxdDflz-iPfoPuIC2iKsUX6mdg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVxdDflz-iPfoPuIC2iKsUX6mdg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVzdDflz-iPfoPuIC2iIqgn6H9k.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVzdDflz-iPfoPuIC2iIqgn6H9k.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVzdDflz-iPfoPuIC2iIqkn6H9k.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVzdDflz-iPfoPuIC2iIqkn6H9k.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v10/FBVzdDflz-iPfoPuIC2iIqYn6A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v10\FBVzdDflz-iPfoPuIC2iIqYn6A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/bevietnam/v9/FBVzdDflz-iPfoPuIC2iIqYn6A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\bevietnam\v9\FBVzdDflz-iPfoPuIC2iIqYn6A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/dmseriftext/v10/rnCu-xZa_krGokauCeNq1wWyWfqFXUIJ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\dmseriftext\v10\rnCu-xZa_krGokauCeNq1wWyWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/dmseriftext/v10/rnCu-xZa_krGokauCeNq1wWyWfSFXQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\dmseriftext\v10\rnCu-xZa_krGokauCeNq1wWyWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/dmseriftext/v10/rnCw-xZa_krGokauCeNq1wWyWfG1UVoNMrY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\dmseriftext\v10\rnCw-xZa_krGokauCeNq1wWyWfG1UVoNMrY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/dmseriftext/v10/rnCw-xZa_krGokauCeNq1wWyWfG1X1oN.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\dmseriftext\v10\rnCw-xZa_krGokauCeNq1wWyWfG1X1oN.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/greatvibes/v13/RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\greatvibes\v13\RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/greatvibes/v14/RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\greatvibes\v14\RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/greatvibes/v14/RWmMoKWR9v4ksMfaWd_JN9XKiaQ6DQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\greatvibes\v14\RWmMoKWR9v4ksMfaWd_JN9XKiaQ6DQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/greatvibes/v14/RWmMoKWR9v4ksMfaWd_JN9XLiaQ6DQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\greatvibes\v14\RWmMoKWR9v4ksMfaWd_JN9XLiaQ6DQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u-w4BMUTPHjxsIPx-mPCLQ7A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u-w4BMUTPHjxsIPx-mPCLQ7A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCI.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCI.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u8w4BMUTPHh30AUi-qJCY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u8w4BMUTPHh30AUi-qJCY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u8w4BMUTPHh30AXC-q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u8w4BMUTPHh30AXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u8w4BMUTPHjxsAUi-qJCY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u8w4BMUTPHjxsAUi-qJCY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u8w4BMUTPHjxsAXC-q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u8w4BMUTPHjxsAXC-q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u9w4BMUTPHh50XSwaPGR_p.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u9w4BMUTPHh50XSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u9w4BMUTPHh50XSwiPGQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u9w4BMUTPHh50XSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u9w4BMUTPHh7USSwaPGR_p.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u9w4BMUTPHh7USSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u9w4BMUTPHh7USSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6uyw4BMUTPHjx4wXg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6uyw4BMUTPHjxAwXjeu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u_w4BMUTPHjxsI3wi_FQft1dw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u_w4BMUTPHjxsI3wi_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwft.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u_w4BMUTPHjxsI5wq_FQft1dw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u_w4BMUTPHjxsI5wq_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwft.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwft.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwft.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v26/7Au-p_0qiz-afTf2LwLT.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v26\7Au-p_0qiz-afTf2LwLT.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v26/7Auwp_0qiz-afTLGLQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v26\7Auwp_0qiz-afTLGLQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v28/7Au-p_0qiz-afTf2IALT8kU.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v28\7Au-p_0qiz-afTf2IALT8kU.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v28/7Au-p_0qiz-afTf2IQLT8kU.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v28\7Au-p_0qiz-afTf2IQLT8kU.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v28/7Au-p_0qiz-afTf2LwLT.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v28\7Au-p_0qiz-afTf2LwLT.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v28/7Auwp_0qiz-afT3GLRrX.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v28\7Auwp_0qiz-afT3GLRrX.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v28/7Auwp_0qiz-afTLGLQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v28\7Auwp_0qiz-afTLGLQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/muli/v28/7Auwp_0qiz-afTzGLRrX.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\muli\v28\7Auwp_0qiz-afTzGLRrX.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/oswald/v49/TK3iWkUHHAIjg752FD8Ghe4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\oswald\v49\TK3iWkUHHAIjg752FD8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/oswald/v49/TK3iWkUHHAIjg752Fj8Ghe4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\oswald\v49\TK3iWkUHHAIjg752Fj8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/oswald/v49/TK3iWkUHHAIjg752Fz8Ghe4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\oswald\v49\TK3iWkUHHAIjg752Fz8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/oswald/v49/TK3iWkUHHAIjg752GT8G.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\oswald\v49\TK3iWkUHHAIjg752GT8G.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/oswald/v49/TK3iWkUHHAIjg752HT8Ghe4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\oswald\v49\TK3iWkUHHAIjg752HT8Ghe4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v26/1Ptug8zYS_SKggPNyC0ITw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v26\1Ptug8zYS_SKggPNyC0ITw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptsg8zYS_SKggPNyCg4Q4FqPfE.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptsg8zYS_SKggPNyCg4Q4FqPfE.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptsg8zYS_SKggPNyCg4QIFqPfE.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptsg8zYS_SKggPNyCg4QIFqPfE.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptsg8zYS_SKggPNyCg4QoFqPfE.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptsg8zYS_SKggPNyCg4QoFqPfE.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptsg8zYS_SKggPNyCg4SYFqPfE.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptsg8zYS_SKggPNyCg4SYFqPfE.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptsg8zYS_SKggPNyCg4TYFq.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptsg8zYS_SKggPNyCg4TYFq.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptug8zYS_SKggPNyC0ITw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptug8zYS_SKggPNyC0ITw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptug8zYS_SKggPNyCAIT5lu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptug8zYS_SKggPNyCAIT5lu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptug8zYS_SKggPNyCIIT5lu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptug8zYS_SKggPNyCIIT5lu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptug8zYS_SKggPNyCkIT5lu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptug8zYS_SKggPNyCkIT5lu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/raleway/v28/1Ptug8zYS_SKggPNyCMIT5lu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\raleway\v28\1Ptug8zYS_SKggPNyCMIT5lu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v19\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7jsDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7ksDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7osDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7psDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7qsDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7rsDJT9g.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qN67lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNa7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNK7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qO67lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xK3dSBYKcSV-LCoeQqfX1RYOo3qPK7lqDY.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZY4lCdv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZYokSdv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZclSdv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydg18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydh18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydj18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydo18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydo18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18Q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklyds18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydv18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZklydv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidg18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidh18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidi18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidj18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkido18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkids18Q.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKwdSBYKcSV-LCoeQqfX1RYOo3qPZZMkidv18Smxg.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_wmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwkxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwkxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdu.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwlxdu.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmBduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmBduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmhduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmhduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmRduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/fonts/s/sourcesanspro/v21/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmxduz8A.woff2
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\s\sourcesanspro\v21\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nwmxduz8A.woff2
+Content Type: font/woff2
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2971/6a3ad1de101d6db916cd291e31d112c0.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2971\6a3ad1de101d6db916cd291e31d112c0.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2971/b00809517c7eca4da93f5a367b75eec5.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2971\b00809517c7eca4da93f5a367b75eec5.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2973/1c9fcd67bdcf1335dea6828f4bb63cca.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2973\1c9fcd67bdcf1335dea6828f4bb63cca.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2973/2ab06238fadc111cb27d396950534ebd.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2973\2ab06238fadc111cb27d396950534ebd.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2973/b00809517c7eca4da93f5a367b75eec5.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2973\b00809517c7eca4da93f5a367b75eec5.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2973/b7335f05cb21992245d201920748f56d.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2973\b7335f05cb21992245d201920748f56d.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/WIDGET_CSS/production_2999/74dadd17932a25eb9b0de7a1e342e789.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\WIDGET_CSS\production_2999\74dadd17932a25eb9b0de7a1e342e789.css
+Content Type: text/css
+
+Uri: https://irp.cdn-website.com/_dm/s/rt/scripts/vendor/photoSwipe/icons@2x.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\scripts\vendor\photoSwipe\icons@2x.png
+Content Type: image/png
+
+Uri: https://irp.cdn-website.com/_dm/s/rt/scripts/vendor/photoswipe4/icons/default-skin.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\scripts\vendor\photoswipe4\icons\default-skin-1.png
+Content Type: image/png
+
+Uri: https://irp.cdn-website.com/_dm/s/rt/scripts/vendor/photoswipe4/icons/default-skin.svg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\scripts\vendor\photoswipe4\icons\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://irp.cdn-website.com/_dm/s/rt/scripts/vendor/photoswipe4/icons/preloader.gif
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\scripts\vendor\photoswipe4\icons\preloader.gif
+Content Type: image/gif
+
+Uri: https://lirp-cdn.multiscreensite.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-032-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-032-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/110174242_lel+(1)-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\110174242_lel (1)-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/36716181_lel+(1)-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\36716181_lel (1)-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/36716181_lel+(1)-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\36716181_lel (1)-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/94963909_lel+(1)-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\94963909_lel (1)-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/94963909_lel+(1)-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\94963909_lel (1)-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/acconciatura%2Bdonna_balayage-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\acconciatura+donna_balayage-2880w.jpg
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/batticinque-106w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\batticinque-106w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/copertina+chi+siamo-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\copertina chi siamo-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/giftcardjulie-1920w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\giftcardjulie-1920w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/giftcardjulie-2880w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\giftcardjulie-2880w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/julie_hpmodifichefirmainalto-1920w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\julie_hpmodifichefirmainalto-1920w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/macro-140w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\macro-140w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/macro-1920w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\macro-1920w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/macro-84w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\macro-84w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/macs-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\macs-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-002-841dd3c2-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-002-841dd3c2-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-003-750ac596-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-003-750ac596-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-003-750ac596-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-003-750ac596-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-025-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-025-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-033-31f2656c-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-033-31f2656c-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-033-31f2656c-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-033-31f2656c-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-034-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-034-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-034-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-034-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-036-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-036-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/PARRUCCHIERI-Julie-Rende-036-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\PARRUCCHIERI-Julie-Rende-036-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/passione+julie-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\passione julie-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/passione+julie-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\passione julie-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/piccoli+passi-105w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\piccoli passi-105w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Primo+taglio+2-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Primo taglio 2-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Primo+taglio+2-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Primo taglio 2-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/promo+bimbo-f428194d-984w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\promo bimbo-f428194d-984w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/serenamente+donna-1920w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\serenamente donna-1920w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Servizi+copertina-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Servizi copertina-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Slide2-d9fcf828-1920w.JPG
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Slide2-d9fcf828-1920w.JPG
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Slide2-d9fcf828-2880w.JPG
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Slide2-d9fcf828-2880w.JPG
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Slide4-ad271787-1920w.JPG
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Slide4-ad271787-1920w.JPG
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/Slide4-ad271787-2880w.JPG
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\Slide4-ad271787-2880w.JPG
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/styling2-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\styling2-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/trattamenti+new-984w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\trattamenti new-984w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/f1c92a16/dms3rep/multi/opt/TRATTAMENTIBeauty-984w.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\f1c92a16\dms3rep\multi\opt\TRATTAMENTIBeauty-984w.png
+Content Type: image/png
+
+Uri: https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1522335789203-aabd1fc54bc9-1920w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\md\unsplash\dms3rep\multi\opt\photo-1522335789203-aabd1fc54bc9-1920w.jpg
+Content Type: image/jpg
+
+Uri: https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1522335789203-aabd1fc54bc9-2880w.jpg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\md\unsplash\dms3rep\multi\opt\photo-1522335789203-aabd1fc54bc9-2880w.jpg
+Content Type: image/jpg
+
+Uri: https://privacy-proxy.usercentrics.eu/latest/uc-block.bundle.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\latest\uc-block.bundle.js
+Content Type: application/javascript
+
+Uri: https://s3.amazonaws.com/dudamobile-themes/Icons/searchBtn.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\dudamobile-themes\Icons\searchBtn.png
+Content Type: image/png
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-common-icons.svg?5f0fg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-common-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-common-icons.ttf?5f0fg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-common-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-common-icons.woff?5f0fg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-common-icons.woff
+Content Type: application/font-woff
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-font.ttf?v=12
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-font.ttf
+Content Type: application/font-sfnt
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-font.woff?v=12
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-font.woff
+Content Type: application/font-woff
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-social-font.ttf?mxo7pn
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-social-font.ttf
+Content Type: application/font-sfnt
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-social-font.woff?mxo7pn
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-social-font.woff
+Content Type: application/font-woff
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-social-icons.svg?y1xkih
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-social-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-social-icons.ttf?y1xkih
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-social-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://static-cdn.multiscreensite.com/fonts/dm-social-icons.woff?y1xkih
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\dm-social-icons.woff
+Content Type: application/font-woff
+
+Uri: https://static-cdn.multiscreensite.com/fonts/flexslider-icon.woff
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\flexslider-icon.woff
+Content Type: application/font-woff
+
+Uri: https://static-cdn.multiscreensite.com/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static-cdn.multiscreensite.com/fonts/fontawesome-webfont.eot?v=6
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://static-cdn.multiscreensite.com/fonts/fontawesome-webfont.svg
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://static-cdn.multiscreensite.com/fonts/fontawesome-webfont.ttf?v=6
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://static-cdn.multiscreensite.com/fonts/fontawesome-webfont.woff?v=6
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://static.cdn-website.com/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://static.cdn-website.com/mnlt/production/2971/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\mnlt\production\2971\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/mnlt/production/2971/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\mnlt\production\2971\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://static.cdn-website.com/mnlt/production/2973/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\mnlt\production\2973\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/mnlt/production/2973/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\mnlt\production\2973\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://static.cdn-website.com/mnlt/production/2999/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-new.min.css
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\mnlt\production\2999\_dm\s\rt\dist\css\d-css-runtime-desktop-one-package-new.min.css
+Content Type: text/css
+
+Uri: https://static.cdn-website.com/mnlt/production/2999/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\mnlt\production\2999\_dm\s\rt\dist\scripts\d-js-one-runtime-unified-desktop.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6P0WEBERZX
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.juliehairstylemomsandkids.it/
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\index.htm
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/beauty
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\beauty.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/chi-siamo
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\chi-siamo.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/contacts
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\contacts.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/gallery
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\gallery.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/hairstyle
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\hairstyle.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/kids
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\kids.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/prezzi-e-promo
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\prezzi-e-promo.html
+Content Type: text/html
+
+Uri: https://www.juliehairstylemomsandkids.it/_dm/s/rt/css/iol/iol-runtime.css?version=2022-11-07T07_57_20
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\css\iol\iol-runtime-2.css
+Content Type: text/css
+
+Uri: https://www.juliehairstylemomsandkids.it/_dm/s/rt/css/iol/iol-runtime.css?version=2022-11-08T09_53_24
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\css\iol\iol-runtime-1.css
+Content Type: text/css
+
+Uri: https://www.juliehairstylemomsandkids.it/_dm/s/rt/css/iol/iol-runtime.css?version=2022-11-17T11_54_12
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\css\iol\iol-runtime.css
+Content Type: text/css
+
+Uri: https://www.juliehairstylemomsandkids.it/_dm/s/rt/scripts/vendor/photoswipe4/icons/default-skin.png
+File Name: C:\Users\deborah\OneDrive\Desktop\JULIE WEB SITE\www.juliehairstylemomsandkids.it\_dm\s\rt\scripts\vendor\photoswipe4\icons\default-skin.png
+Content Type: image/png
+
